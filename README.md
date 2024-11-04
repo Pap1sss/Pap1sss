@@ -2,8 +2,9 @@
 
  Web Application Developer sharing my journey and learnings <br/>
 
- 🌱 I’m currently working on an application using:
- [![My Skills](https://skillicons.dev/icons?i=nextjs,react,typescript,flutter&perline=3)](https://skillicons.dev)
+ 🌱 I’m currently working on an application using: <br/>
+ 
+ [![My Skills](https://skillicons.dev/icons?i=nextjs,react,typescript,&perline=3)](https://skillicons.dev)
 <!--
 **Pap1sss/Pap1sss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
